@@ -14,7 +14,7 @@
 ```
 
 **Step2:**
-- Enable the H2 in the [application.properties](http://application.properties) file
+- Enable the H2 in the application.properties file
 - Prepare data.sql with student records for seeding the h2 DB 
 
 **Step3:**
